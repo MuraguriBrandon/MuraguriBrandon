@@ -10,7 +10,7 @@
  ┌─────────────────────────────────────────────────────┐
  │  root@brandon:~$ whoami                              │
  │  > developer, crafting digital experiences            │
- │  > coding since late 2022 · still learning daily      │
+ │  > coding since late 2023 · still learning daily      │
  └─────────────────────────────────────────────────────┘
 ```
 
