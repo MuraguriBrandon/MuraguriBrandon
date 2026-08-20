@@ -50,9 +50,9 @@
 </p>
 
 ## 🤝 Let’s connect
-- Email: your-email@example.com
-- Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourprofile)
+- Email: mwangibrandon2@gmail.com
+- instagram: [@guccimwas](https://www.instagram.com/guccimwas/?hl=en)
+- LinkedIn: [Brandon Mwangi](https://www.linkedin.com/in/brandon-mwangi/)
 
 ---
 
