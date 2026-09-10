@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Brandon%20Mwangi&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Full-Stack%20Developer&descAlignY=62&descSize=18&descColor=CBD5E1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Brandon%20Mwangi&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Junior Full-Stack%20Developer&descAlignY=62&descSize=18&descColor=CBD5E1" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=Building+with+TypeScript+%26+Next.js;Ex-Microsoft+Learn+Student+Ambassador;Open+to+internships+%26+freelance+work" alt="Typing SVG" />
 
@@ -25,7 +25,7 @@
 
 ## About
 
-I'm a full-stack developer based in Kenya, focused on building clean, functional web applications with TypeScript and Next.js. I started with vanilla HTML/CSS/JS, moved into structured TypeScript projects and Java, and now build most of my work on the React/Next.js stack — taking projects from a rough idea to a deployed, working product.
+I'm a junior full-stack developer based in Kenya, focused on building clean, functional web applications with TypeScript and Next.js. I started with vanilla HTML/CSS/JS, moved into structured TypeScript projects and Java, and now build most of my work on the React/Next.js stack — taking projects from a rough idea to a deployed, working product.
 
 **Currently:** open to internship, junior developer, or freelance work. Comfortable working solo or as part of a team, and quick to pick up a new codebase.
 
