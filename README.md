@@ -87,12 +87,7 @@ Each project links to source. `[ Add a live demo link next to any that are deplo
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MuraguriBrandon&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=333333" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuraguriBrandon&layout=compact&theme=default&hide_border=true&title_color=2563EB&text_color=333333" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuraguriBrandon&theme=default&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" />
+<img src="./github-metrics.svg" alt="Brandon's GitHub metrics" width="100%"/>
 </div>
 
 <br/>
