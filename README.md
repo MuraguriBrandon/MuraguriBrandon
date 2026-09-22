@@ -121,12 +121,12 @@ I'm open to internships, junior roles, and freelance web development work. Feel 
 <br/>
 
 ## ⌁ GITHUB TELEMETRY
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuraguriBrandon&show_icons=true&theme=react&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF007F&text_color=C4C4C4" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuraguriBrandon&layout=compact&theme=react&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=C4C4C4" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuraguriBrandon&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=39FF14&icon_color=FF00FF&text_color=00F0FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuraguriBrandon&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=39FF14&text_color=00F0FF" />
 
+</div>
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuraguriBrandon&theme=react&hide_border=true&background=0D0221&ring=7000FF&fire=FF007F&currStreakLabel=00F0FF" />
