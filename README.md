@@ -102,8 +102,8 @@ Each project links to source. `[ Add a live demo link next to any that are deplo
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuraguriBrandon&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=39FF14&icon_color=FF00FF&text_color=00F0FF" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuraguriBrandon&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=39FF14&text_color=00F0FF" />
 
-</div><details>
-<summary><b>📡 CLICK TO EXPAND :: CURRENT_BUILD_LOG</b></summary>
+</div>
+
 <br/>
 
 <br/>
