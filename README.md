@@ -107,7 +107,7 @@ Each project links to source. `[ Add a live demo link next to any that are deplo
 I'm open to internships, junior roles, and freelance web development work. Feel free to reach out — happy to talk about a project, an opportunity, or just tech in general.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" width="100%"/>
+
 </div>
 
 
