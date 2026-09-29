@@ -96,13 +96,7 @@ Each project links to source. `[ Add a live demo link next to any that are deplo
 </div>
 <br/>
 
-## ⌁ GITHUB TELEMETRY
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuraguriBrandon&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=39FF14&icon_color=FF00FF&text_color=00F0FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuraguriBrandon&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=39FF14&text_color=00F0FF" />
-
-</div>
 
 <br/>
 
@@ -116,18 +110,7 @@ I'm open to internships, junior roles, and freelance web development work. Feel 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" width="100%"/>
 </div>
 
-<details>
-<summary><b>📡 CLICK TO EXPAND :: CURRENT_BUILD_LOG</b></summary>
 
-<br/>
-
-```
-[BUILD]    Actively shipping new full-stack projects
-[LEARNING] Deepening backend architecture & automated testing
-[NEXT]     Expanding into cloud deployment pipelines
-```
-
-</details>
 
 
 
