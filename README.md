@@ -2,12 +2,12 @@
 
 <img src="./github-header-banner.png" alt="Brandon Mwangi Header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-stack+Developer+%7C+TypeScript+%26+Next.js;Building+clean,+scalable+web+experiences;Open+to+internships,+junior+roles,+and+freelance+work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%7C+TypeScript+%26+Next.js;Building+clean,+modern+digital+products;Open+to+internships,+junior+roles,+and+freelance+work" alt="Typing SVG" />
 
 <br/>
 
 <a href="mailto:mwangibrandon2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/brandon-mwangi/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -25,27 +25,21 @@
 
 ## About
 
-Hi, I'm Brandon — a junior full-stack developer based in Nairobi, Kenya, with a strong focus on building clean, functional, and user-friendly web applications using TypeScript and Next.js.
+Hi, I'm Brandon Mwangi — a junior full-stack developer based in Nairobi, Kenya, focused on building responsive, accessible, and production-minded web experiences with TypeScript, Next.js, and modern frontend tooling.
 
-I started with HTML, CSS, and JavaScript, then moved into more structured frontend and full-stack work. I enjoy turning product ideas into polished digital experiences, whether that means crafting responsive interfaces, improving usability, or building practical systems that solve real problems.
+I began with foundational web technologies and evolved into building more structured, scalable applications with a strong emphasis on clean UX, maintainable code, and practical problem-solving. I enjoy translating ideas into polished digital products and collaborating effectively in team settings.
 
-I’m currently open to internships, junior developer roles, and freelance opportunities. I work well independently and also collaborate effectively within a team.
+I’m currently open to internships, junior developer roles, and freelance opportunities where I can contribute, learn fast, and build meaningful work.
 
 <br/>
 
-## Quick Facts
+## Core Strengths
 
-<div align="center">
-
-| Area | Details |
-|---|---|
-| Location | Nairobi, Kenya |
-| Availability | Open to remote and hybrid opportunities |
-| Focus | Frontend, full-stack, responsive web apps |
-| Strengths | TypeScript, Next.js, UI/UX, clean architecture |
-| Experience | Learning + building real-world side projects |
-
-</div>
+- Frontend development with React and Next.js
+- Responsive design and user-focused interface implementation
+- Full-stack product thinking from idea to deployment
+- Clean code structure and maintainable component design
+- Clear communication and reliable project ownership
 
 <br/>
 
@@ -72,35 +66,35 @@ I’m currently open to internships, junior developer roles, and freelance oppor
 
 <br/>
 
-## How I Work
-
-- I build with intention. I focus on solving real problems and creating user-friendly interfaces, not just making things look impressive.
-- I write maintainable code. I keep projects structured and understandable so they can be extended or handed over cleanly.
-- I communicate clearly. If something is unclear or blocked, I ask early instead of guessing.
-- I keep improving. Every project is a chance to sharpen my skills in architecture, product thinking, and execution.
-
-<br/>
-
-## Featured Projects
+## Selected Projects
 
 <div align="center">
 
-| Project | Description | Stack |
+| Project | What it does | Stack |
 |---|---|---|
-| **[House Rental Site](https://github.com/MuraguriBrandon/HOUSE-RENTAL-SITE)** | Property listing and rental management platform designed for browsing, searching, and managing listings efficiently | TypeScript, Next.js, Tailwind |
+| **[House Rental Site](https://github.com/MuraguriBrandon/HOUSE-RENTAL-SITE)** | Property listing and rental management platform focused on browsing, search, and user-friendly property discovery | TypeScript, Next.js, Tailwind |
 | **[Restaurant Website](https://github.com/MuraguriBrandon/Restaurant-Website)** | Responsive restaurant website with menu browsing and an online ordering flow | Next.js, TypeScript, JavaScript |
-| **[Car Rental](https://github.com/MuraguriBrandon/Car-rental)** | Vehicle booking experience focused on clear browsing, interaction, and smooth UX | HTML, CSS, JavaScript |
-| **[Carwash Project](https://github.com/MuraguriBrandon/carwash-project)** | Service listing and booking website for a local business, built around a simple customer flow | HTML, CSS, JavaScript |
-| **[RockPaperScissors](https://github.com/MuraguriBrandon/RockPaperScissors)** | Classic game implementation built to practice Java logic and interactive UI patterns | Java |
-| **[MLSA Training](https://github.com/MuraguriBrandon/my-MLSA-training-)** | Coursework and projects completed through the Microsoft Learn Student Ambassador training program | Various |
+| **[Car Rental](https://github.com/MuraguriBrandon/Car-rental)** | Vehicle booking interface built around smooth browsing and a simplified booking experience | HTML, CSS, JavaScript |
+| **[Carwash Project](https://github.com/MuraguriBrandon/carwash-project)** | Business-focused service listing and booking website for a local service provider | HTML, CSS, JavaScript |
+| **[RockPaperScissors](https://github.com/MuraguriBrandon/RockPaperScissors)** | Java-based interactive game implementation that reinforces core logic and UI patterns | Java |
+| **[MLSA Training](https://github.com/MuraguriBrandon/my-MLSA-training-)** | Coursework and project work completed through the Microsoft Learn Student Ambassador program | Various |
 
 </div>
 
-> 💡 I’m building practical, end-to-end projects that reflect real product thinking, clean implementation, and the ability to ship working software.
+> I build practical, end-to-end projects that reflect product thinking, strong fundamentals, and a drive to deliver usable software.
 
 <br/>
 
-## GitHub Stats
+## Experience & Approach
+
+- I build with clarity and purpose, focusing on user value rather than just visual novelty.
+- I structure code in a way that remains understandable, maintainable, and easy to extend.
+- I communicate early and keep feedback loops short when requirements are unclear.
+- I’m committed to learning continuously and improving both technical and collaborative skills.
+
+<br/>
+
+## GitHub Activity
 
 <div align="center">
   <img src="./github-metrics.svg" alt="Brandon's GitHub metrics" width="100%" />
@@ -109,24 +103,24 @@ I’m currently open to internships, junior developer roles, and freelance oppor
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuraguriBrandon&theme=react&hide_border=true&background=0D0221&ring=7C3AED&fire=F472B6&currStreakLabel=8B5CF6" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuraguriBrandon&theme=react&hide_border=true&background=0D0221&ring=8B5CF6&fire=F472B6&currStreakLabel=A78BFA" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuraguriBrandon&theme=react-dark&hide_border=true&bg_color=0D0221&color=8B5CF6&line=7C3AED&point=F472B6" width="100%" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuraguriBrandon&theme=react-dark&hide_border=true&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=F472B6" width="100%" alt="Contribution Activity Graph" />
 </div>
 
 <br/>
 
 ## Let's Connect
 
-I’m open to internships, junior roles, freelance work, and collaboration opportunities. If you’re building something interesting or have a role that could be a fit, I’d love to hear from you.
+I’m open to internships, junior developer positions, freelance work, and collaborative opportunities. If you’re building something impactful or looking for a developer who is eager to contribute and grow, I’d love to connect.
 
 <div align="center">
 
-<a href="mailto:mwangibrandon2@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-7C3AED?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email me" /></a>
+<a href="mailto:mwangibrandon2@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-8B5CF6?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email me" /></a>
 <a href="https://wa.me/254745549558"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Message on WhatsApp" /></a>
 
 </div>
@@ -135,6 +129,6 @@ I’m open to internships, junior roles, freelance work, and collaboration oppor
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,25:7C3AED,50:F472B6,75:8B5CF6,100:0D0221&height=150&section=footer" width="100%" alt="Footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,25:8B5CF6,50:F472B6,75:A78BFA,100:0D0221&height=150&section=footer" width="100%" alt="Footer banner" />
 
 </div>
