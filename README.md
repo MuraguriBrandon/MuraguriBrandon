@@ -2,7 +2,7 @@
 
 <img src="./github-header-banner.png" alt="Brandon Mwangi Header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%7C+TypeScript+%26+Next.js;Building+clean,+modern+digital+products;Open+to+internships,+junior+roles,+and+freelance+work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%7C+TypeScript+%7C+Next.js+%7C+Product+Mindset" alt="Typing text for Brandon Mwangi" />
 
 <br/>
 
@@ -25,11 +25,13 @@
 
 ## About
 
-Hi, I'm Brandon Mwangi — a junior full-stack developer based in Nairobi, Kenya, focused on building responsive, accessible, and production-minded web experiences with TypeScript, Next.js, and modern frontend tooling.
+Hi, I'm Brandon Mwangi — a junior full-stack developer based in Nairobi, Kenya, focused on building responsive, accessible, and production-minded web experiences with TypeScript, Next.js, and modern frontend and backend workflows.
 
-I began with foundational web technologies and evolved into building more structured, scalable applications with a strong emphasis on clean UX, maintainable code, and practical problem-solving. I enjoy translating ideas into polished digital products and collaborating effectively in team settings.
+I began with foundational web technologies and evolved into building more structured, scalable applications with a strong emphasis on clean UX, maintainable code, and practical problem-solving. I enjoy turning ideas into usable digital products that are both visually polished and technically sound.
 
 I’m currently open to internships, junior developer roles, and freelance opportunities where I can contribute, learn fast, and build meaningful work.
+
+> I’m motivated by building software that is elegant in design, thoughtful in implementation, and valuable in real-world use.
 
 <br/>
 
@@ -72,7 +74,7 @@ I’m currently open to internships, junior developer roles, and freelance oppor
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[House Rental Site](https://github.com/MuraguriBrandon/HOUSE-RENTAL-SITE)** | Property listing and rental management platform focused on browsing, search, and user-friendly property discovery | TypeScript, Next.js, Tailwind |
+| **[House Rental Site](https://github.com/MuraguriBrandon/HOUSE-RENTAL-SITE)** | Property listing and rental management platform focused on browsing, search, and user-friendly property discovery | TypeScript, Next.js, React |
 | **[Restaurant Website](https://github.com/MuraguriBrandon/Restaurant-Website)** | Responsive restaurant website with menu browsing and an online ordering flow | Next.js, TypeScript, JavaScript |
 | **[Car Rental](https://github.com/MuraguriBrandon/Car-rental)** | Vehicle booking interface built around smooth browsing and a simplified booking experience | HTML, CSS, JavaScript |
 | **[Carwash Project](https://github.com/MuraguriBrandon/carwash-project)** | Business-focused service listing and booking website for a local service provider | HTML, CSS, JavaScript |
@@ -82,6 +84,16 @@ I’m currently open to internships, junior developer roles, and freelance oppor
 </div>
 
 > I build practical, end-to-end projects that reflect product thinking, strong fundamentals, and a drive to deliver usable software.
+
+<br/>
+
+## Professional Principles
+
+- Value clarity over complexity — I prefer clean, maintainable solutions over unnecessary abstraction.
+- Put the user first — every product decision should improve usability, accessibility, and trust.
+- Build for reliability — strong structure, performance, and maintainability matter as much as visual polish.
+- Communicate with ownership — I keep feedback loops short, document decisions clearly, and collaborate with intent.
+- Keep improving — I treat every project as a chance to learn, refine, and deliver with more confidence.
 
 <br/>
 
@@ -103,20 +115,20 @@ I’m currently open to internships, junior developer roles, and freelance oppor
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuraguriBrandon&theme=react&hide_border=true&background=0D0221&ring=8B5CF6&fire=F472B6&currStreakLabel=A78BFA" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuraguriBrandon&theme=react&hide_border=true&background=0D0221&ring=8B5CF6&fire=F472B6&currStreakLabel=A78BFA" alt="GitHub Streak Stats" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuraguriBrandon&theme=react-dark&hide_border=true&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=F472B6" width="100%" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuraguriBrandon&theme=react-dark&hide_border=true&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=F472B6" width="100%" alt="GitHub Contribution Graph" />
 </div>
 
 <br/>
 
 ## Let's Connect
 
-I’m open to internships, junior developer positions, freelance work, and collaborative opportunities. If you’re building something impactful or looking for a developer who is eager to contribute and grow, I’d love to connect.
+I’m open to internships, junior developer positions, freelance work, and collaborative opportunities. If you’re building something impactful or looking for a developer who is eager to contribute with professionalism, curiosity, and execution, I’d love to connect.
 
 <div align="center">
 
