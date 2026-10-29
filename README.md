@@ -124,13 +124,6 @@ I’m currently open to internships, junior developer roles, and freelance oppor
 <div align="center">
   <img src="./github-metrics.svg" alt="Brandon's GitHub metrics" width="100%" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuraguriBrandon&theme=react&hide_border=true&background=0D0221&ring=8B5CF6&fire=F472B6&currStreakLabel=A78BFA" alt="GitHub Streak Stats" width="100%" />
-</div>
-
 <br/>
 
 <div align="center">
