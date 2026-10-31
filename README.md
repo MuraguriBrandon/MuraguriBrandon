@@ -2,7 +2,7 @@
 
 <img src="./github-header-banner.png" alt="Brandon Mwangi Header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%7C+TypeScript+%7C+Next.js+%7C+Product+Focused" alt="Brandon Mwangi typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=680&lines=Junior Full-Stack+Developer+%7C+TypeScript+%7C+Next.js+%7C+Product+Focused" alt="Brandon Mwangi typing banner" />
 
 <br/>
 
