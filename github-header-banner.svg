@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Brandon Mwangi — Junior Full-Stack Developer</title>
+  <desc id="desc">Coding-themed banner with a profile photo and a dark purple developer-style background.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#09090f"/>
+      <stop offset="0.55" stop-color="#1b1237"/>
+      <stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#a78bfa" stroke-opacity=".16"/>
+    </pattern>
+    <clipPath id="photoClip"><circle cx="210" cy="130" r="68"/></clipPath>
+  </defs>
+  <rect width="1200" height="260" fill="url(#background)"/>
+  <rect width="1200" height="260" fill="url(#grid)"/>
+  <g fill="#c4b5fd" fill-opacity=".38" font-family="monospace" font-size="17">
+    <text x="70" y="60">&lt;div class="developer"&gt;</text>
+    <text x="92" y="91">const stack = ['React', 'Next.js'];</text>
+    <text x="92" y="122">buildUserExperience();</text>
+    <text x="70" y="153">&lt;/div&gt;</text>
+    <text x="70" y="205">// clean code, thoughtful products</text>
+  </g>
+  <rect x="742" y="34" width="380" height="190" rx="18" fill="#0f172a" fill-opacity=".5" stroke="#8b5cf6" stroke-opacity=".3"/>
+  <g stroke-linecap="round" stroke-width="7" opacity=".55">
+    <path d="M774 82h194" stroke="#8b5cf6"/>
+    <path d="M774 112h260" stroke="#a78bfa"/>
+    <path d="M774 142h220" stroke="#c4b5fd"/>
+    <path d="M774 172h150" stroke="#f472b6"/>
+  </g>
+  <circle cx="210" cy="130" r="74" fill="#0f172a" stroke="url(#accent)" stroke-width="4"/>
+  <image href="https://github.com/MuraguriBrandon.png" x="142" y="62" width="136" height="136" preserveAspectRatio="xMidYMid slice" clip-path="url(#photoClip)"/>
+  <text x="322" y="108" fill="#f8fafc" font-family="Arial, sans-serif" font-size="34" font-weight="700">Brandon Mwangi</text>
+  <text x="322" y="149" fill="#c4b5fd" font-family="Arial, sans-serif" font-size="22" font-weight="600">Junior Full-Stack Developer</text>
+  <text x="322" y="182" fill="#d1d5db" font-family="Arial, sans-serif" font-size="16">Building modern, scalable web experiences</text>
+</svg>
